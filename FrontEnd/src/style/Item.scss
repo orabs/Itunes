@@ -1,0 +1,41 @@
+.card-wrapper {
+  display: inline-block;
+	width: 300px;
+}
+
+.kind {
+  padding: 2px 4px;
+  font-weight: 300;
+  font-size: 0.8em;
+  border-radius: 2px;
+}
+
+.description {
+
+      position: relative;
+      margin-top: 20px;
+      border: 1px solid;
+      padding: 10px;
+      box-shadow: 5px 10px 8px #888888;
+}
+
+.video_player {
+
+  position: relative;
+  left:1%;
+ 
+}
+
+
+.alternative{
+
+  position: relative;
+}
+
+img {
+  z-index: -1 !important;
+
+}
+
+
+

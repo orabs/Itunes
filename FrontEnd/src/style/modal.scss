@@ -1,0 +1,96 @@
+
+.backdropStyle {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 50px;
+  z-index: 2 !important;
+
+}
+
+// The modal "window"
+.modalStyle {
+  //postion: fixed;
+  background: black;
+  border-radius: 5px;
+  max-width: 90%;
+  min-height: 100%;
+  margin: 0 auto;
+  padding: 30px;
+  z-index: 1 !important;
+}
+
+//button {
+//
+//  z-index: 999999999 !important;
+//}
+
+.video_player {
+
+  position: fixed;
+  left: 10%;
+  top: 65%;
+
+}
+
+.video-react {
+
+
+  vertical-align: top;
+  box-sizing: border-box;
+  color: #e05a5a;
+
+  padding-top: 50%!important;
+  background-color: black;
+  position: relative !important;
+  font-size: 10px;
+  line-height: 1;
+  font-family: serif, Times, "Times New Roman";
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.video-react-video {
+
+  top:2% !important;
+  height: 750px !important;
+
+}
+
+.video-react-poster{
+  position: relative !important;
+  max-height: none;
+  max-width: 51%;
+  left:50%;
+}
+
+.close {
+  z-index: 1;
+  postion:relative !important;
+  top:10%;
+  right:10%;
+}
+
+.video-react-big-play-button {
+
+  top: 41% !important;
+  left: 50% !important;
+
+}
+
+.video-react-control-bar {
+  display: inline-flex !important;
+  width: 80%;
+  position: relative;
+  bottom: 0% !important;
+  left: 0;
+  right: 0;
+  height: 3.0em;
+  background-color: #2B333F;
+  background-color: rgba(43, 51, 63, 0.7);
+}
