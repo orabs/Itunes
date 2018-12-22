@@ -12,4 +12,4 @@ Run these commands in both directory (FrontEnd, BackEnd):
 ### npm start
 
 
-# Be sure that MongoDb is running on localhost with port 27017 
+## Make sure that MongoDb is running on localhost with port 27017 
