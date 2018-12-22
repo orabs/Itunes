@@ -3,8 +3,13 @@
 ### Client Side - React.js
 ### Database - MongoDb
 
+
+
 Run these commands in both directory (FrontEnd, BackEnd):
 
 ### npm i
 
 ### npm start
+
+
+# Be sure that MongoDb is running on localhost with port 27017 
