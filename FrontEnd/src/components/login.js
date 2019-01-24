@@ -8,6 +8,7 @@ class Login extends Component {
 //   }
     state=
     {
+        
         user: '',
         pass: '',
         login_alert:false
